@@ -1,2 +1,2 @@
 # project
-powerbi_project
+This Analysis examines the Gender Pay Analysis of a company. from the data we can see the Gender distribution and know which gender earns the most, also the total number of employees, the average age( which indicates this company has more millennia), seniority level earning as on. the chart used in conveying this information was carefully selected to help ease stakeholders and audience understanding thank you.
